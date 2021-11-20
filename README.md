@@ -1,4 +1,4 @@
-# Surfs Up “Surf and Shake Shop ” Weather analysis
+# Surfs Up “Surf and Shake Shop ” Weather Analysis
 ## Analysis Overview
 While on vacation last year in Hawaii I discovered a new found passion for surfing. The trip was such a positive experience that I want to move to Hawaii permanently. I have the idea that could merge my passion for surfing with my passion for ice cream and open a surf and shake shop that would allow me to live out the rest of my days following my passions. I have savings to invest in the shop but I will need a strong investor to  back me to get the shop off the ground. I have created a strong business plan and pitched my idea to an investor who shares my passion for surfing, his name is W. Avy. W. Avy thinks my business plan is sound but is concerned about the weather. He asked that I do some follow up analysis on the weather for the island of Oahu where I intend to open my shop. He provided me a data set to do my analysis and specifically concerned with the months of June and December. 
 ## Resources
